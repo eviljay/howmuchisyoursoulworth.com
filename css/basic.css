@@ -1,0 +1,44 @@
+body { font-family: Verdana, Arial, Helvetica, sans-serif; background-color: #0a005a; background-image: url(../images/background.jpg); background-repeat: repeat-x; margin-top: 0; margin-right: auto !important; margin-bottom: 0 !important; margin-left: auto !important; }
+
+p { }
+
+td { }
+
+a:link { }
+
+a:visited { }
+
+a:hover { }
+
+a:active { }
+.wrap { width: 970px; margin-right: auto; margin-left: auto !important; }
+.footer { color: #fff; font-size: 10px; background-image: url(../images/demonfeet.jpg); text-align: right; width: 970px; height: 305px; clear: both; display: block; }
+.footer p { margin-top: 0; margin-bottom: 0; padding-top: 40px; padding-right: 40px; padding-bottom: 0; }
+.footer a { color: white; text-decoration: underline; }
+.footer a:hover { color: white; text-decoration: none; }
+.radiofield { margin-bottom: 10px; }
+.radiofield input { display: block; }
+.radiofield label { margin-left: 30px; display: block; }
+.radiowrap { width: 20px; height: 20px; float: left; }
+.resultsbadge { width: 272px; margin-right: auto; margin-left: auto; }
+.codebox { padding-top: 10px; padding-bottom: 10px; }
+.brand { background-image: url(../images/mainbrand.jpg); background-repeat: no-repeat; width: 970px !important; height: 234px !important; display: block; }
+.quiztitle { background-image: url(../images/quiztitle.jpg); background-repeat: no-repeat; width: 970px !important; height: 89px !important; display: block; }
+.resultstitle { background-image: url(../images/resultstitle.jpg); background-repeat: no-repeat; display: block; width: 970px !important; height: 89px !important; }
+.resultstitle p { color: #000; font-size: 40px; font-family: Georgia, "Times New Roman", Times, serif; line-height: 90px; text-align: right; margin-top: 0; margin-bottom: 0; padding-top: 0; padding-right: 70px; padding-bottom: 0; }
+.quizwrap { background-image: url(../images/quizbg.jpg); background-repeat: repeat-y; width: 970px; margin-top: 0; margin-bottom: 0; }
+.maincontent { margin-right: 40px; margin-left: 40px; display: block; }
+.content0 { color: #756c6d; font-size: 16px; font-family: Georgia, "Times New Roman", Times, serif; font-style: italic; padding-top: 12px; padding-right: 60px; padding-bottom: 20px; padding-left: 80px !important; border-bottom: 1px dashed #b22222; }
+.content1 { color: #5c5c5c; font-size: 14px; font-family: Georgia, "Times New Roman", Times, serif; padding-top: 5px; padding-right: 80px; padding-left: 80px !important; }
+.content1 h1 { color: #7e1b21; font-size: 26px; font-family: Georgia, "Times New Roman", serif; font-weight: normal; margin-top: 0; margin-bottom: 10px; padding-top: 0; padding-right: 70px; }
+.content2 { font-size: 14px; font-family: Georgia, "Times New Roman", serif; padding: 12px 80px; }
+.widgetresultfloatleft { float: left; padding-left: 30px; }
+.widgetresultfloatright { width: 480px; float: right; padding-right: 30px; }
+.widgetresultfloatright h2 { color: #7e1b21; font-size: 16px; font-family: Georgia, "Times New Roman", Times, serif; text-align: left; margin-top: 0; padding-top: 0; }
+.widgetresultfloatright p { color: #3a3a3a; font-size: 15px; font-family: Georgia, "Times New Roman", Times, serif; margin-top: 0; }
+.widgetresultfloatright p.small { color: #363636; font-size: 12px; font-family: Georgia, "Times New Roman", Times, serif; }
+.widgetresultclear { color: #9c9c9c; font-size: 11px; clear: both; padding-right: 200px; padding-left: 200px; }
+.footersmall { color: #fff; font-size: 10px; background-color: #0a005a; background-image: url(../images/smallfoot.gif); background-repeat: no-repeat; text-align: right; width: 970px; height: 56px; clear: both; display: block; }
+.footersmall p { margin-top: 0; margin-bottom: 0; padding-top: 40px; padding-right: 40px; padding-bottom: 0; }
+
+
